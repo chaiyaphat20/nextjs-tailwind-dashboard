@@ -8,4 +8,4 @@ npx create-next-app@latest
 
 ```
 npm install tailwindcss-debug-screens --save-dev
-``
+```
