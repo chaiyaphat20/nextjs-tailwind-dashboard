@@ -1,0 +1,17 @@
+{
+  "cSpell.words": [
+    "deconsolidation",
+    "googlemaps",
+    "hookform",
+    "lucide",
+    "reduxjs",
+    "uuidv"
+  ],
+  "cSpell.ignoreRegExpList": ["/[\\u0E00-\\u0E7F]/g"],
+  "editor.tabSize": 2,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": true,
+  "editor.formatOnSave": true,
+  "i18n-ally.localesPaths": ["messages"],
+  "typescript.preferences.importModuleSpecifier": "project-relative"
+}
