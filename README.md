@@ -10,3 +10,7 @@ https://github.com/jorenvanhee/tailwindcss-debug-screens
 ```
 npm install tailwindcss-debug-screens --save-dev
 ```
+
+
+result
+![alt text](/readme/image.png)
